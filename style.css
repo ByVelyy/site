@@ -1,0 +1,53 @@
+body{
+    background-image: url("arkaplan1.jpeg");
+}
+
+div{
+height:50px;
+background-color: blueviolet;
+color: aqua;
+text-align: center;
+vertical-align: middle;
+margin-left: 200px;
+margin-right: 200px;
+
+
+}
+div:hover{
+
+    background-color: chartreuse;
+    color: blue;
+}
+
+p{
+    border:2px solid black;
+    color:darkslategrey ;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+a{
+    font-size: 20px;
+    color:coral;
+    
+
+}
+
+a:hover{
+
+    color:blue;
+    font-size:30;
+}
+.baslik{
+
+    color:darkmagenta;
+}
+.text-bold{
+
+    font-weight: bold;
+}
+.baslik.text-bold{
+
+    background-color: azure;
+}
